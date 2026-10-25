@@ -34,17 +34,17 @@ namespace TV_Кокорин.Classes
             Channels.Add(new Channel()
             {
                 Name = "Практическое занятие №3 Объявление классов и создание объектов в C#.mp4",
-                Src = @""
+                Src = @"F:\3 курс\МДК 05.02\Pr5\TV_Кокорин\TV_Кокорин\Videos\1.mp4"
             });
             Channels.Add(new Channel()
             {
                 Name = "Практическое занятие №4 Объявление классов и создание объектов в C#.mp4",
-                Src = @""
+                Src = @"F:\3 курс\МДК 05.02\Pr5\TV_Кокорин\TV_Кокорин\Videos\2.mp4"
             });
             Channels.Add(new Channel()
             {
                 Name = "Практическое занятие №5 Объявление классов и создание объектов в C#.mp4",
-                Src = @""
+                Src = @"F:\3 курс\МДК 05.02\Pr5\TV_Кокорин\TV_Кокорин\Videos\3.mp4"
             });
         }
         public void SwapChannell(MediaElement _MediaElement, Label _NameChannel)

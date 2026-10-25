@@ -14,6 +14,7 @@
             <Button Click="NextChannel" Content="Вперёд" HorizontalAlignment="Left" Margin="115,0,0,10" VerticalAlignment="Bottom" Width="100" Height="25" Background="White"/>
             <Button Content="Тише" HorizontalAlignment="Right" Margin="0,0,115,10" VerticalAlignment="Bottom" Width="100" Height="25" Background="White"/>
             <Button Content="Громче" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="100" Height="25" Background="White"/>
+            <Button Click="ToggleAuto" Content="Авто" HorizontalAlignment="Left" Margin="220,0,0,10" VerticalAlignment="Bottom" Width="100" Height="25" Background="White"/>
         </Grid>
     </Grid>
 </Window>
